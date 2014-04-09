@@ -1,0 +1,16 @@
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\de\EntityFramework.resources.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\it\EntityFramework.resources.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\ja\EntityFramework.resources.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\ko\EntityFramework.resources.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache

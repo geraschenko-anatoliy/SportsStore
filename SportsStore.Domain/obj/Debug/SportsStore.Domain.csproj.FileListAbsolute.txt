@@ -13,4 +13,3 @@ C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore
 C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\zh-Hant\EntityFramework.resources.dll
 C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
-C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache

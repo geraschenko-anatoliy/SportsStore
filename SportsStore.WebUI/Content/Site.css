@@ -68,7 +68,7 @@ DIV#header DIV.title, DIV.Item H3, DIV.Item H4, DIV.pager A {
     font: bold 1em "Arial Narrow", "Franklin Gothic Medium", Arial;
 }
 DIV#header {
-    background-color: #444;
+    background-color: #ddd;
     border-bottom: 2px solid #111;
     color: white;
 }

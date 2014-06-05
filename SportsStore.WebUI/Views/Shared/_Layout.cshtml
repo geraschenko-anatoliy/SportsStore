@@ -9,7 +9,11 @@
 <body>
     <div id="header">
         @{Html.RenderAction("Summary", "Cart");}
-        <div class="title">SPORTS STORE</div>
+        <div class="title">
+            SPORTS STORE
+        </div>
+        @Html.ActionLink("Go to admin", "Index", "Admin") 
+        <a href="https://github.com/geraschenko-anatoliy/SportsStore">Go to code</a>
     </div>
     <div id="categories">
         @{Html.RenderAction("Menu","Nav");}

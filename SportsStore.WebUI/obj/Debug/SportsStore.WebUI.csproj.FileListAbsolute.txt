@@ -2,6 +2,8 @@ C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore
 C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
 C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
 C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
 C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
 C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\Moq.dll
@@ -18,8 +20,9 @@ C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore
 C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.dll
 C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.dll
 C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\WebGrease.dll
-C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
 C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
 C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\Moq.xml
 C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\Ninject.xml
 C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.xml
@@ -34,6 +37,3 @@ C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore
 C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
-C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
-C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
-C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml

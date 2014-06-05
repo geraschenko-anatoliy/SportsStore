@@ -1,0 +1,16 @@
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Release\SportsStore.Domain.dll.config
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Release\SportsStore.Domain.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Release\SportsStore.Domain.pdb
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Release\EntityFramework.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Release\de\EntityFramework.resources.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Release\es\EntityFramework.resources.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Release\fr\EntityFramework.resources.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Release\it\EntityFramework.resources.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Release\ja\EntityFramework.resources.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Release\ko\EntityFramework.resources.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Release\zh-Hans\EntityFramework.resources.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Release\zh-Hant\EntityFramework.resources.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\obj\Release\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\obj\Release\SportsStore.Domain.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\obj\Release\SportsStore.Domain.pdb
